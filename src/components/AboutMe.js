@@ -1,10 +1,8 @@
 import React from "react";
-import avatar from "../lib/img_avatar2.png";
 import "./AboutMe.css";
 import html from "../lib/html-css-js-icon-set-web-development-logo-javascript-programming-symbol-171669655.jpeg";
 import react from "../lib/react icon.png";
 import redux from "../lib/redux icon.png";
-import profile from "../lib/IMG_7415.JPG";
 import profile1 from "../lib/IMG_7414.jpg";
 
 const AboutMe = () => {
