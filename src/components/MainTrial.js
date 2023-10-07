@@ -17,11 +17,11 @@ const MainTrial = () => {
                 <p className="hi">Hi, my name is Sorrell Maranello</p>
               </div>
               <p className="location-info">
-                I'm a <span>Front End Developer</span> based in Chelmsford.
+                I'm a <span>Full Stack Developer</span> based in Chelmsford.
               </p>
               <p className="language-info">
                 My main programming tools I use are HTML5, CSS3,<br></br>{" "}
-                Javascript and React.
+                Javascript, React and PHP.
               </p>
               <p className="more-info">
                 To find out more about me and my skills click below

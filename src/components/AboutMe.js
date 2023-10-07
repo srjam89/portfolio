@@ -4,16 +4,22 @@ import html from "../lib/html-css-js-icon-set-web-development-logo-javascript-pr
 import react from "../lib/react icon.png";
 import redux from "../lib/redux icon.png";
 import profile1 from "../lib/IMG_7414.jpg";
+import php from "../lib/php-logo.png";
+import jquery from "../lib/jquery-logo.png";
 
 const AboutMe = () => {
   return (
     <div className="con">
       <div className="aboutme-container">
         <div className="aboutme-text">
-          <p>Hi, my name is Sorrell. I am a self taught Front End Developer.</p>
+          <p>
+            Hi, my name is Sorrell. I am a self taught Full Stack Developer.
+          </p>
           <p className="languages-text">
-            My main programming languages learnt are HTML, CSS and Javascript. I
-            have also learnt Javascript libraries such as React and Redux.
+            My main programming languages learnt are HTML, CSS and Javascript
+            for front end, and PHP and SQL for backend services. I have also
+            learnt Javascript libraries such as JQuery, React, Redux and
+            frameworks such as Express.
           </p>
           <p>
             I learnt these languages using online resources such as Udemy and
@@ -49,6 +55,8 @@ const AboutMe = () => {
         <img src={html} className="html" alt="html icon" />
         <img src={react} className="react" alt="react icon" />
         <img src={redux} className="redux" alt="redux icon" />
+        <img src={php} className="php" alt="php icon" />
+        <img src={jquery} className="jquery" alt="jquery icon" />
       </div>
     </div>
   );
