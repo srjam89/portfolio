@@ -4,7 +4,6 @@ import sloth from "../lib/sloth project.avif";
 import quote from "../lib/s-migaj-Yui5vfKHuzs-unsplash.jpg";
 import google2 from "../lib/google logo 2.png";
 import todo from "../lib/todo app logo.jpeg";
-import expense from "../lib/expense tracker logo.jpeg";
 import calculator from "../lib/calculator-img.png";
 import fullTodo from "../lib/todo.png";
 import gazzeteer from "../lib/favicon.png";

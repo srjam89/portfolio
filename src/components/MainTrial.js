@@ -5,6 +5,7 @@ import facebook from "../lib/facebook icon.png";
 import instagram from "../lib/instagram icon.webp";
 import linkedin from "../lib/linkedin icon.png";
 import "./MainTrial.css";
+import cv from "../lib/Sorrell Maranello - CV 1.pdf";
 
 const MainTrial = () => {
   return (
@@ -41,6 +42,14 @@ const MainTrial = () => {
         <img src={facebook} className="image-fb" alt="facebook icon" />
         <img src={instagram} className="image-insta" alt="instagram icon" />
         <img src={linkedin} className="image-linkedin" alt="linkedin icon" />
+        <a
+          href={cv}
+          download="Sorrell Maranello CV"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <button className="btn btn-cv">Curriculum Vitae</button>
+        </a>
       </div>
     </div>
   );
