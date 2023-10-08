@@ -18,6 +18,7 @@ const App = () => {
           <Route path="/contactme" element={<ContactMe />} />
         </Routes>
       </div>
+      <div className="preloader"></div>
     </Router>
   );
 };
